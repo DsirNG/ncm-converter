@@ -27,6 +27,8 @@ python process_cache.py --input-type ncm --source 'C:\Music\Downloads' --output 
 
 当前候选版：[v0.2.0-rc.1 下载](https://github.com/DsirNG/ncm-converter/releases/tag/v0.2.0-rc.1)，提供 Windows x64 安装包 / 便携 ZIP 和 macOS 两种架构 DMG。
 
+Windows 下载后显示「已删除」、无法运行安装包或想验证 SHA-256？请查看 [Windows 安装与下载排障](WINDOWS.md)（包含只读诊断脚本，不要求关闭安全防护）。
+
 ## macOS
 
 [macOS 候选版下载](https://github.com/DsirNG/ncm-converter/releases/tag/v0.2.0-rc.1)：Apple Silicon 与 Intel 原生 DMG，包含音频工具，需要 macOS 15 或更新系统。安装、缓存目录、签名状态和构建说明见 [MACOS.md](MACOS.md)。
